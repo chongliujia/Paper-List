@@ -1,5 +1,14 @@
 ### Ransomware Detection
 
+1. [Differential Training: A Generic Framework to Reduce Label Noises for Android Malware Detection] (https://www.ndss-symposium.org/ndss-paper/differential-training-a-generic-framework-to-reduce-label-noises-for-android-malware-detection/) (NDSS)
+2. [When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features] (https://www.ndss-symposium.org/ndss-paper/when-malware-is-packin-heat-limits-of-machine-learning-classifiers-based-on-static-analysis-features/) (NDSS)
+3. [FCGAT: Interpretable Malware Classification Method using Function Call Graph and Attention Mechanism] (https://www.ndss-symposium.org/ndss-paper/auto-draft-396/) (NDSS)
+4. [ExSpectre: Hiding Malware in Speculative Execution] (https://www.ndss-symposium.org/ndss-paper/exspectre-hiding-malware-in-speculative-execution/) (NDSS)
+5. [Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem] (https://www.ndss-symposium.org/ndss-paper/prevalence-and-impact-of-low-entropy-packing-schemes-in-the-malware-ecosystem/) (NDSS)
+6. [You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis] (https://www.ndss-symposium.org/ndss-paper/you-are-what-you-do-hunting-stealthy-malware-via-data-provenance-analysis/) (NDSS)
+
+
+### Ransomware Detection Blogs ###
 1. [HPE pitches Zerto ransomware product as a ‘real-time’ detector that’s data-aware] (https://blocksandfiles.com/2023/07/26/hpe-zerto-10/)
 2. [HPE Ransomware Detection and Recovery in Zerto 10: Sophistication that Works] (https://recoverymonkey.org/2023/07/25/hpe-ransomware-detection-and-recovery-in-zerto-10-sophistication-that-works/)
 
